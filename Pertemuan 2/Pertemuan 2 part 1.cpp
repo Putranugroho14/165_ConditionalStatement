@@ -11,7 +11,7 @@ int main()
 	cout << "Bilangan awal = " << bilangan << endl;
 
 	if (bilangan >= 5) {
-		bilangan = 10 * bilangan;
+		bilangan = 2 * bilangan;
 	}
 
 	cout << "Bilangan akhir = " << bilangan << endl;
